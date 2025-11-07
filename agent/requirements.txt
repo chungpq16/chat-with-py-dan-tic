@@ -1,0 +1,7 @@
+pydantic-ai[mcp]
+tavily-python
+uvicorn[standard]
+fastapi
+pydantic>=2.11.2,<3.0.0
+ag-ui-protocol>=0.1.9
+python-dotenv
